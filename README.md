@@ -17,3 +17,6 @@ A simple Python mini project to manage student records.
 
 ```bash
 python main.py
+## Project Screenshot
+
+![Project Screenshot](Screenshot 2026-02-19 130243.png)
